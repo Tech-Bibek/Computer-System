@@ -101,7 +101,7 @@ However, the methods or techniques, Size, capacity, characteristics, and data ha
 
 <h3>1.5.1. Classification Of Computers</h3>
 We can classify the computers according to the following 3 categories:
-
+<img src="images/Classification-of-Computers-system.jpg" align="center">
 
 <h3>1.5.1.1. Classifications of Computers System</h3>
 1.5.1.1.1. On the Basis of Size and Capacity
