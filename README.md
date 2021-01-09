@@ -180,7 +180,7 @@ The fast development of microcomputers with technology. As a result, today, micr
 
 <h4>1.5.1.1.2. Computers on the Basis Of Purpose</h4>
 
-<h5>1.5.1.1.2.1. General Purpose</h5><img src="images/laptop-500x500.jpg" align="right" width="350" height="350">
+<h5>1.5.1.1.2.1. General Purpose</h5><img src="images/laptop-500x500.jpg" align="left" width="350" height="350">
 General computers can do various everyday tasks such as writing a word processing letter, Document preparation, recording, financial analysis, Printing documents, creating databases, and calculations with accuracy and consistency.
 The size, storage capacity, and cost of such computers are mainly less. The ability of these computers is limited in performing specialized tasks. Still, it has the versatility and useful for serving people’s basic needs at home or in the workplace in the environment.
 
