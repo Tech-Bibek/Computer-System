@@ -209,13 +209,14 @@ Digital computers use discrete electrical signals for operation rather than cont
 
 The desktop or Laptop at our home is one the common and best example of a digital computer.
 Other Examples of Digital Computers
-1.       Personal Desktop Computers,
-2.       Calculators,
-3.       Laptops, Smartphones, and Tablets,
-4.       Digital watch,
-5.       Accounting machines,
-6.       Workstations,
-7.       Digital clock, etc.
+<ul type=1>
+  <li>Personal Desktop Computers,</li>
+<li>Calculators,</li>
+<li>Laptops, Smartphones, and Tablets,</li>
+<li>Digital watch,</li>
+<li>Accounting machines,</li>
+<li>Workstations,</li>
+<li>Digital clock, etc.</li>
 
 <h5>1.5.1.1.3.3. Hybrid Computer</h5>
 A hybrid computer is a combined complex computer unit built using both analog and digital properties and united by a single control system. The purpose of designing hybrid computers is to provide functions and features that can be found on both analog and digital devices.
