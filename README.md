@@ -1,5 +1,5 @@
 <h1>1.Introduction to Computer Systems</h1>         
-<img src="images/Computer.jpg" align="right" width="350" height="350">
+<img src="images/Computer.jpg" align="right" width="350" height="350"><em>Computer System</em>
 Full Form Of Computer:
 
 C – Commonly
