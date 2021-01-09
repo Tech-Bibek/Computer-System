@@ -1,6 +1,6 @@
 <h1>1.Introduction to Computer Systems</h1>         
-<img src="images/Computer.jpg" align="left" width="200" height="200"><style="text-align:center;">
-
+<img src="images/Computer.jpg" align="left" width="200" height="200">
+<style="text-align:center;">
 Full Form Of Computer:</br>
 C – Commonly</br>
 O – Operated</br>
@@ -11,8 +11,7 @@ T – Technical</br>
 E – & Education</br>
 R – Research</br>
 </style>
-
-Definition: A computer is an electronic machine that accepts data and instruction from its users, processes it and produces a desired output.
+</p>Definition: A computer is an electronic machine that accepts data and instruction from its users, processes it and produces a desired output.
 
 <h2>1.1. Explanation of the Definition</h2>
 
