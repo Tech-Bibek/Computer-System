@@ -10,7 +10,6 @@ U – Used for</br>
 T – Technical</br>   
 E – & Education</br>
 R – Research</br>
-</style>
 </p>Definition: A computer is an electronic machine that accepts data and instruction from its users, processes it and produces a desired output.
 
 <h2>1.1. Explanation of the Definition</h2>
