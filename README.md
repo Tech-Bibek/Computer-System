@@ -273,7 +273,7 @@ Programming Languages used: C, BASIC, PASCAL, etc.
 
 Examples: Mainframe Computers. Minicomputers
 
-<h3>1.6.4 Fourth Generation Computer (1971-80)</h3>
+<h3>1.6.4 Fourth Generation Computer (1971-80)</h3><img src="images/Fourth Gen.jpg" align="right" width="350" height="350">
 In 1971, Fourth generation computers were introduced. The computers in today's world belong the fourth generation computers. The new concept microprocessor is used in this generation computers. Large Scale Integration (LSI) techniques microprocessor were used in fourth generation computers.
 
 Microprocessor with other LSI chips developed microcomputers with compact size, increased speed and storage capacity. Recently VLSI (Very Large Scale Integration) is used in computers. Due to the use of VLSI, storage capacity is increased.
@@ -286,7 +286,7 @@ Uses: Education, Office, Business, Industries, Scientific Research.
 
 Examples: Personal Computers
 
-<h3>1.6.5 Fifth Generation Computer (1982-Present)</h3>
+<h3>1.6.5 Fifth Generation Computer (1982-Present)</h3><img src="images/drone.jpg" align="right" width="350" height="350">
 In the Fifth Generation of computers ultra large scale integration (ULSI) is used. The computers are introduced with massively parallel processing. Artificial Intelligence is the area of Computer Science which makes computers to think like human. In this generation all the high level languages are used to write computer program. The salient features of this generation are powerful desktop PCs and workstations, hardware reliability, user friendly Operating System, Internet, e-mail.
 
 Programming Languages used: High-level Language- C, C++, Java, HTML, PHP, JavaScript, Python, etc.
