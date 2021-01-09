@@ -264,7 +264,7 @@ Uses: Business and Industries for commercial data processing
 
 Examples: Livermore Atomic Research Computer (LARC) IBM.
 
-<h3>1.6.3 Third Generation Computer (1966-71)</h3><img src="images/integrated-circuit.jpg" align="right" width="350" height="350">
+<h3>1.6.3 Third Generation Computer (1966-71)</h3><img src="images/integrated-circuit.jpg" align="right" width="150" height="150">
 Third generation computers started in 1966. These computers were designed with Integrated Circuits(IC). ICs are monolithic circuit.
 Third generation computers were small in size and these computers were cost-effective compared to second generation computers. Speed and storage capacity of these computers increased.
 
