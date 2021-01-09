@@ -145,7 +145,7 @@ Using the mainframe completes the tasks, Such as keeping details of payments, re
 
 Examples: IBM Es000 series, ICL39 Series, and CDC 6600.
 
-<h5>1.5.1.1.1.3. Mini Computer</h5><img src="minicomputer.jpg" align="right">
+<h5>1.5.1.1.1.3. Mini Computer</h5><img src="images/minicomputer.jpg" align="right" width="350" height="350">
 
 Minicomputer is a digital and multi-user computer system with the connection of more than one CPU. Thus, many people can work on these computers simultaneously instead of a single person. Also, it can process with other accessories like a printer, plotter, etc.
 
