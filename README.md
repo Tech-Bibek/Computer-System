@@ -138,13 +138,14 @@ The mainframe is ahead of our conventional modern Personal computers in almost e
 Somehow mainframes can be more powerful than supercomputers because the mainframe supports many processes simultaneously. On the other hand, supercomputers can run a single program but faster than a mainframe. In the past, Mainframes requires entire rooms or even floors of whole buildings for set up.
 In today, IBM company is leading the production of mainframe computers. Mainframe reliability is increased with development in the past 60 years. These computers can fix most of the hardware and software bugs.
 
+
 Applications: Uses of Mainframe Computer –
 Mainframe computers are mainly used by departmental and commercial organizations like Banks, Companies, Scientific research centers, and governmental departments like railways. These computers can work for 24 hours. Hundreds of users can work on these computations simultaneously.
 Using the mainframe completes the tasks, Such as keeping details of payments, research centers, advertising, sending bills and notices, paying employees, ticket booking, maintaining details of purchases by users, keeping detailed tax details, etc.
 
 Examples: IBM Es000 series, ICL39 Series, and CDC 6600.
 
-<h5>1.5.1.1.1.3. Mini Computer</h5>
+<h5>1.5.1.1.1.3. Mini Computer</h5><img src="minicomputer.jpg" align="right">
 
 Minicomputer is a digital and multi-user computer system with the connection of more than one CPU. Thus, many people can work on these computers simultaneously instead of a single person. Also, it can process with other accessories like a printer, plotter, etc.
 
