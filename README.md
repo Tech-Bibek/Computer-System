@@ -215,7 +215,7 @@ Digital computers use discrete electrical signals for operation rather than cont
 
 The desktop or Laptop at our home is one the common and best example of a digital computer.
 Other Examples of Digital Computers
-<ol type=1>
+<ol type="1">
 <li>Personal Desktop Computers,</li>
 <li>Calculators,</li>
 <li>Laptops, Smartphones, and Tablets,</li>
@@ -242,8 +242,8 @@ Also, the solutions and uses of hybrid computers have proved to be much more det
 Examples:  Hycomp 250, released by Packard Bell in 1961, the HYDAC 2400, an integrated hybrid computer released by EAI in 1963, etc.
 
 <h2>1.6 Generations of a Computer</h2>
-<h3>1.6.1 First Generation Computer (1946-59)</h3>
-The First Generation Computer were large in size. They used vacuum tubes in their circuits. Due to vacuum tubes a large amount of heat was generated. To reduce heat special air conditioning arrangements were required.<img src="images/First Gen.jpg" align="right" width="150" height="150">
+<h3>1.6.1 First Generation Computer (1946-59)</h3><img src="images/First Gen.jpg" align="right" width="150" height="150">
+The First Generation Computer were large in size. They used vacuum tubes in their circuits. Due to vacuum tubes a large amount of heat was generated. To reduce heat special air conditioning arrangements were required.
 
 ##Note: A vacuum tube was an electronic component with very less work efficiency.
 <img src="images/Vacuum tube.jpg" align="left" width="150" height="150">
