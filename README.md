@@ -1,5 +1,5 @@
 <h1>1.Introduction to Computer Systems</h1>         
-<img src="images/Computer.jpg" align="right" width="450" height="450">
+<img src="images/Computer.jpg" align="right" width="350" height="350">
 Full Form Of Computer:
 
 C – Commonly
@@ -90,6 +90,7 @@ The improper and prolonged use of computer can results in injuries or disorders 
 The computer manufacturing processes and computer waste are polluting the environment. The wasted parts of computer can release dangerous toxic materials. Green computer is a method to reduce the electricity consumed and environmental waste generated when using a computer. It includes recycling and regulating manufacturing processes. The used computers must be donated or disposed off properly.
 
 <h2>1.5. Classification Of Computer</h2>
+
 We see many Computers nearby, But they all are different from each other.
 
 In this section, we are going to know about the basics and classification of computers which included all the different types of computers.
