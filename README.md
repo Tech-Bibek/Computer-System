@@ -1,5 +1,5 @@
 <h1>1.Introduction to Computer Systems</h1>         
-[Computer Systems]: images/Computer.jpg
+![Computer](https://user-images.githubusercontent.com/77188228/104090884-a6675680-529f-11eb-8efa-950fe8578ddc.jpg)
 
 Full Form Of Computer:
 
