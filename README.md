@@ -161,7 +161,7 @@ Examples: PDP 11 IBM (8000 Series)
 ##Note: PDP-1 was the world’s first minicomputer, small and interactive, introduced in 1960 by the Digital Equipment Corporation.
 
 <h5>1.5.1.1.1.4. Micro Computer</h5>
-
+<img src="images/types-of-microcomputer.jpg" align="right" width="350" height="350">
 Today we are using many computers at home is also the most common microcomputer. With this invention of the microprocessors in the year 1970, it became possible to use computers for people personally at a low cost and reasonable price known as Digital Personal Computer.
 The design of microcomputers is minimal in size and storage capacity. These computers consist of many parts like Input and Output devices, Software, operating systems, networks, and Servers all these need to connect to form complete Personal Digital Computer.
 There is not only a PC or laptop are examples of microcomputers. Other examples of the microcomputer are smartphone, Tablet, PDA, server, palmtop, and workstation.
@@ -180,18 +180,18 @@ The fast development of microcomputers with technology. As a result, today, micr
 
 <h4>1.5.1.1.2. Computers on the Basis Of Purpose</h4>
 
-<h5>1.5.1.1.2.1. General Purpose</h5>
+<h5>1.5.1.1.2.1. General Purpose</h5><img src="images/laptop-500x500.jpg" align="right" width="350" height="350">
 General computers can do various everyday tasks such as writing a word processing letter, Document preparation, recording, financial analysis, Printing documents, creating databases, and calculations with accuracy and consistency.
 The size, storage capacity, and cost of such computers are mainly less. The ability of these computers is limited in performing specialized tasks. Still, it has the versatility and useful for serving people’s basic needs at home or in the workplace in the environment.
 
-<h5>1.5.1.1.2.2. Special Purpose</h5>
+<h5>1.5.1.1.2.2. Special Purpose</h5><img src="images/cardprocessing.jpg" align="right" width="350" height="350">
 These computers are designed to perform a particular or specialized task. The size, storage capacity, and cost of such computers mainly depend on the nature and size of the work. The function of these computers is consistent with any particular task.
 The special computer needs specific processors and input and devices to conduct work efficiently.
 These computers are used for special purposes in weather forecasting, space research, agriculture, engineering, meteorology, satellite operation, traffic control, and research in chemical sciences.
 
 <h4>1.5.1.1.3. Computers on the Basis of Hardware Design and Data Handling.</h4>
 
-<h5>1.5.1.1.3.1. Analog Computer</h5>
+<h5>1.5.1.1.3.1. Analog Computer</h5><img src="images/analog-computer.jpg" align="right" width="350" height="350">
 
 An analog computer performs tasks using continuous data (the physical amount that changes continuously). Analog computers are used primarily to measure physical units like voltage, pressure, electric current, temperature, and convert them into digits.
 It is also used to measure and perform arithmetic calculations of numbers, the length of an object, or the amount of voltage that passes through a point in an electrical circuit. Analog computers obtain all their data from some measurement way.
@@ -204,7 +204,8 @@ Examples:
 An analog computer installed on a petrol pump measures the amount of petrol coming out of the pump and appears in liters. And calculates its value. These quantities vary continuously while measuring the amount, such as the temperature of a human body changes consistently.
 A simple clock, the vehicle’s speedometer, Voltmeter, etc. are examples of analog computing.
 
-<h5>1.5.1.1.3.2. Digital Computer</h5>
+<h5>1.5.1.1.3.2. Digital Computer</h5><img src="images/Digital.jpg" align="right" width="350" height="350">
+
 As its name suggests, a digital computer represents the digital computer’s letters, numerical values, or any other special symbols. This computer is the computer that calculates the number for processing the data.
 They run on electronic signs, and the binary numeral method Binary System 0 or 1 is used for calculation. Their speed is fast.
 It can perform arithmetic operations such as addition, occurrence, subtraction, multiplication, or division and all types of logical(mathematical) operations. Today, most of the computers available in the market are digital computers.
@@ -222,9 +223,11 @@ Other Examples of Digital Computers
 <li>Workstations,</li>
 <li>Digital clock, etc.</li>
 </ol>
+
 <h5>1.5.1.1.3.3. Hybrid Computer</h5>
+
 A hybrid computer is a combined complex computer unit built using both analog and digital properties and united by a single control system. The purpose of designing hybrid computers is to provide functions and features that can be found on both analog and digital devices.
-The aim behind creating a hybrid computer is to create a kind of work unit that offers the best of both types of computers. Hybrid computers are extremely fast when driving equations, even when those calculations are incredibly complex.
+The aim behind creating a hybrid computer is to create a kind of work unit that offers the best of both types of computers. Hybrid computers are extremely fast when driving equations, even when those calculations are incredibly complex.<img src="images/Hybrid Computer.jpg" align="right" width="350" height="350" alt="Ultrasound Machine">
 
 As both the properties of a computer consist in the form of a single hybrid computer made possible to solve too complex calculations or problems, at the same time, these devices are not only too expensive but also able to solve complex issues bit fast.
 Incorporating the properties of both (analog and digital) computers into hybrid computers makes it possible to resolve more difficult equations immediately.
