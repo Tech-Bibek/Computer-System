@@ -130,7 +130,7 @@ Examples: IBM Roadburner, IBM Blue Gene, Intel ASI Red. PARAM-1000, and CRAY-XMP
 ##Note:  World’s first supercomputer is the Control Data Corporation (CDC) 6600 invented by Seymour Cray.
 
 <h5>1.5.1.1.1.2. Mainframe Computer</h5>
-<img src="images/Mainframe computer.jpg" align="right">
+<img src="images/Mainframe Computer.jpg" align="right">
 Mainframe computers are multi-programming, high-performance computers, and multi-user, which means it can handle the workload of more than 100 users at a time on the computer.
 The storage capacity of the mainframe is enormous, with a high-speed data process as well. As well as handling hundreds of input and output devices at a time.
 The mainframe is a highly efficient computer capable of simultaneously solving complex calculations and continuously for a long time. These computers have several microprocessors that have the ability to function the data at too high performance and speed.
