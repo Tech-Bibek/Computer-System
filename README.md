@@ -215,7 +215,7 @@ Digital computers use discrete electrical signals for operation rather than cont
 The desktop or Laptop at our home is one the common and best example of a digital computer.
 Other Examples of Digital Computers
 <ol type=1>
-  <li>Personal Desktop Computers,</li>
+<li>Personal Desktop Computers,</li>
 <li>Calculators,</li>
 <li>Laptops, Smartphones, and Tablets,</li>
 <li>Digital watch,</li>
@@ -272,12 +272,12 @@ Programming Languages used: C, BASIC, PASCAL, etc.
 
 Examples: Mainframe Computers. Minicomputers
 
-<h3>1.6.4 Fourth Generation Computer (1971-80)</h3><img src="images/Fourth Gen.jpg" align="right" width="350" height="350">
+<h3>1.6.4 Fourth Generation Computer (1971-80)</h3>
 In 1971, Fourth generation computers were introduced. The computers in today's world belong the fourth generation computers. The new concept microprocessor is used in this generation computers. Large Scale Integration (LSI) techniques microprocessor were used in fourth generation computers.
 
 Microprocessor with other LSI chips developed microcomputers with compact size, increased speed and storage capacity. Recently VLSI (Very Large Scale Integration) is used in computers. Due to the use of VLSI, storage capacity is increased.
 
-The speed of the computer also increased due to VLSI technique.
+The speed of the computer also increased due to VLSI technique.<img src="images/Fourth Gen.jpg" align="right" width="350" height="350">
 
 Programming Languages used: High-level Language- C, C++, COBOL, PASCLE
 
