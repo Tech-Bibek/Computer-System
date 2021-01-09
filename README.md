@@ -217,7 +217,7 @@ Other Examples of Digital Computers
 <li>Accounting machines,</li>
 <li>Workstations,</li>
 <li>Digital clock, etc.</li>
-
+</ul>
 <h5>1.5.1.1.3.3. Hybrid Computer</h5>
 A hybrid computer is a combined complex computer unit built using both analog and digital properties and united by a single control system. The purpose of designing hybrid computers is to provide functions and features that can be found on both analog and digital devices.
 The aim behind creating a hybrid computer is to create a kind of work unit that offers the best of both types of computers. Hybrid computers are extremely fast when driving equations, even when those calculations are incredibly complex.
