@@ -3,7 +3,7 @@
                                                                             Full Form Of Computer: 
                                                                                      C – Commonly
 
-                                                                                     O – Operated
+   <img src="images/Computer.jpg" align="left"><style="text-align:Centre">O – Operated</style>
 
                                                                                      M – Machine
 
