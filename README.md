@@ -1,5 +1,5 @@
 <h1>1.Introduction to Computer Systems</h1>         
-[Computer Systems]<img src="images/Computer.jpg" width="500" height="500">
+[Computer Systems]("images/Computer.jpg" width="500" height="500")
 
 Full Form Of Computer:
 
