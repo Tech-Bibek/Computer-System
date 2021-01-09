@@ -277,7 +277,7 @@ In 1971, Fourth generation computers were introduced. The computers in today's w
 
 Microprocessor with other LSI chips developed microcomputers with compact size, increased speed and storage capacity. Recently VLSI (Very Large Scale Integration) is used in computers. Due to the use of VLSI, storage capacity is increased.
 
-The speed of the computer also increased due to VLSI technique.<img src="images/Fourth Gen.jpg" align="right" width="350" height="350">
+The speed of the computer also increased due to VLSI technique.<img src="images/Fourth Gen.jpg" align="right" width="150" height="150">
 
 Programming Languages used: High-level Language- C, C++, COBOL, PASCLE
 
@@ -285,7 +285,7 @@ Uses: Education, Office, Business, Industries, Scientific Research.
 
 Examples: Personal Computers
 
-<h3>1.6.5 Fifth Generation Computer (1982-Present)</h3><img src="images/drone.jpg" align="right" width="350" height="350">
+<h3>1.6.5 Fifth Generation Computer (1982-Present)</h3><img src="images/drone.jpg" align="right" width="150" height="150">
 In the Fifth Generation of computers ultra large scale integration (ULSI) is used. The computers are introduced with massively parallel processing. Artificial Intelligence is the area of Computer Science which makes computers to think like human. In this generation all the high level languages are used to write computer program. The salient features of this generation are powerful desktop PCs and workstations, hardware reliability, user friendly Operating System, Internet, e-mail.
 
 Programming Languages used: High-level Language- C, C++, Java, HTML, PHP, JavaScript, Python, etc.
