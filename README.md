@@ -243,10 +243,10 @@ Examples:  Hycomp 250, released by Packard Bell in 1961, the HYDAC 2400, an inte
 
 <h2>1.6 Generations of a Computer</h2>
 <h3>1.6.1 First Generation Computer (1946-59)</h3>
-The First Generation Computer were large in size. They used vacuum tubes in their circuits. Due to vacuum tubes a large amount of heat was generated. To reduce heat special air conditioning arrangements were required.<img src="images/First Gen.jpg" align="right" width="350" height="350">
+The First Generation Computer were large in size. They used vacuum tubes in their circuits. Due to vacuum tubes a large amount of heat was generated. To reduce heat special air conditioning arrangements were required.<img src="images/First Gen.jpg" align="right" width="150" height="150">
 
 ##Note: A vacuum tube was an electronic component with very less work efficiency.
-<img src="images/Vacuum tube.jpg" align="left" width="350" height="350">
+<img src="images/Vacuum tube.jpg" align="left" width="150" height="150">
 The speed and storage of vacuum tubes was very low compared to today's computers. Punched cards were used to enter data in to the computers.
 
 Programming Languages used: Machine Language
@@ -255,10 +255,10 @@ Uses: Scientific Purposes
 
 Examples: ENIAC, EDVAC, EDSAC, UNIVAC-1 etc.
 
-<h3>1.6.2 Second Generation Computer (1959-65)</h3><img src="images/second-generation-of-computer.jpg" align="right" width="350" height="350">
+<h3>1.6.2 Second Generation Computer (1959-65)</h3><img src="images/second-generation-of-computer.jpg" align="right" width="150" height="150">
 In the second generation computers the vacuum tubes were replaced by transistors made from semiconductors. Vacuum Tubes had a drawback regarding heat generation. The use of transistors reduces the heat generation during operations.
 Second Generation computers had a large storage capacity. The size of these generation computers were small compared to first generation computers. It requires less power to operate and was much faster than previous generation computers. Magnetic media was used as an auxiliary storage of data in these generation computers.
-<img src="images/Transistors.jpg" align="left" width="350" height="350">
+<img src="images/Transistors.jpg" align="left" width="150" height="150">
 Programming Languages used: High-level Language- FORTRAN, COBOL, ALGOL, SNOBOL etc.
 
 Uses: Business and Industries for commercial data processing
