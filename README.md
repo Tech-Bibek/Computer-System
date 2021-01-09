@@ -112,6 +112,7 @@ We can classify the computers according to the following 3 categories:
 
 <h5>1.5.1.1.1.1. Supercomputer</h5>
 
+<img src="images/supercomputer_3_March_2020.5e5e566fecbad.jpg" align="right">
 A Supercomputer is the very fastest and powerful, and expensive type of computer for processing data. Supercomputers’ size and storage capacity are also huge (can occupy huge premises) designed to process vast amounts of data in a short time with high productivity.
 These are specially made to perform multi-specific tasks. Therefore, many CPUs work in parallel order on these supercomputers. This function of a Supercomputer is called Multiprocessing or Parallel Processing.
 A supercomputer’s design is complicated, like it can be heterogeneous, combining computers of different architectures, is significantly surpassed most existing personal computers. This made this machine an ultra-high performance supercomputer.
