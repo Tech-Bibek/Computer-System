@@ -1,6 +1,5 @@
 <h1>1.Introduction to Computer Systems</h1>         
 <img src="images/Computer.jpg" align="right" width="200" height="200">
-<style="text-align:left;">
 Full Form Of Computer:
 C – Commonly
 O – Operated
