@@ -1,23 +1,23 @@
 <h1>1.Introduction to Computer Systems</h1>         
 <img src="images/Computer.jpg" align="left" height="350" width="350">
 
-Full Form Of Computer:
+  Full Form Of Computer:
 
-C – Commonly
+   C – Commonly
 
-O – Operated
+   O – Operated
 
-M – Machine
+   M – Machine
 
-P – Particularly
+   P – Particularly
 
-U – Used for
+   U – Used for
 
-T – Technical
+   T – Technical
 
-E – & Education
+   E – & Education
 
-R – Research
+   R – Research
 
 Definition: A computer is an electronic machine that accepts data and instruction from its users, processes it and produces a desired output.
 
