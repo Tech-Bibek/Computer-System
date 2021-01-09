@@ -59,7 +59,7 @@ Versatility refers to the capability of a computer to perform different kinds of
 <h3>1.3.5. Reliability</h3>
 A computer is reliable as it gives consistent result for similar set of data i.e., if we give same set of input any number of times, we will get the same result. 
 
-</h3>1.3.6. Automation</h3>
+<h3>1.3.6. Automation</h3>
 Computer performs all the tasks automatically i.e. it performs tasks without manual intervention.
 
 <h3>1.3.7. Memory</h3>
