@@ -126,7 +126,7 @@ Applications: The uses of supercomputers are dedicated to –
 <li>Spaceship and Satellite Launching.</li>
 <li>Used in scientific research laboratories.</li>
 <li>Used in Chemical and Biological research and for highly calculation complex tasks.</li>
-
+</ol>
 Examples: IBM Roadburner, IBM Blue Gene, Intel ASI Red. PARAM-1000, and CRAY-XMP-14 are Indian Supercomputers.
 
 ##Note:  World’s first supercomputer is the Control Data Corporation (CDC) 6600 invented by Seymour Cray.
@@ -180,8 +180,7 @@ Some of the major PC manufacturers are IBM, Lenovo, Apple, HCL, HP, etc.
 Examples: IBM PCs and Apple Macintosh.
 The fast development of microcomputers with technology. As a result, today, microcomputers coming in the form of a book, a phone, and even a clock.
 
-<h4>1.5.1.1.2. Computers on the Basis Of Purpose</h4>
-
+<h4>1.5.1.1.2. Computers on the Basis Of Purpose</h4></p>
 <h5>1.5.1.1.2.1. General Purpose</h5><img src="images/laptop-500x500.jpg" align="left" width="150" height="150">
 General computers can do various everyday tasks such as writing a word processing letter, Document preparation, recording, financial analysis, Printing documents, creating databases, and calculations with accuracy and consistency.
 The size, storage capacity, and cost of such computers are mainly less. The ability of these computers is limited in performing specialized tasks. Still, it has the versatility and useful for serving people’s basic needs at home or in the workplace in the environment.
