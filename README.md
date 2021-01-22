@@ -120,11 +120,12 @@ A supercomputer’s design is complicated, like it can be heterogeneous, combini
 Each part of a supercomputer is responsible for its own specific task, such as structuring and solving the most complex problems requiring an incredible amount of calculations.
 
 Applications: The uses of supercomputers are dedicated to –
-In research and study of energy and nuclear weapons and designing the aircraft, airplanes, and flight simulators.
-Climate research and Weather Forecasting and Prediction of Natural Disasters.
-Spaceship and Satellite Launching.
-Used in scientific research laboratories.
-Used in Chemical and Biological research and for highly calculation complex tasks.
+<ol>
+<li>In research and study of energy and nuclear weapons and designing the aircraft, airplanes, and flight simulators.</li>
+<li>Climate research and Weather Forecasting and Prediction of Natural Disasters.</li>
+<li>Spaceship and Satellite Launching.</li>
+<li>Used in scientific research laboratories.</li>
+<li>Used in Chemical and Biological research and for highly calculation complex tasks.</li>
 
 Examples: IBM Roadburner, IBM Blue Gene, Intel ASI Red. PARAM-1000, and CRAY-XMP-14 are Indian Supercomputers.
 
