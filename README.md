@@ -75,7 +75,7 @@ Different tasks are performed automatically by using computers. It reduces the n
 <h3>1.4.2. Wastage Of Time And Energy</h3>
 Many people use computers without positive purpose. They play games and chat for a long period of time. It causes wastage of time and energy. Young generation is now spending more time on the social media websites like Facebook, Twitter etc or texting their friends all night through smartphones which is bad for both studies and their health. And it also has adverse effects on the social life.
 
-</h3>1.4.3. Data Security</h3>
+<h3>1.4.3. Data Security</h3>
 The data stored on a computer can be accessed by unauthorized persons through networks. It has created serious problems for the data security.
 
 <h3>1.4.4. Computer Crimes</h3>
